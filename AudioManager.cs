@@ -24,16 +24,12 @@ public class AudioManager : MonoBehaviour
 
 	protected void SetSong(string songName)
 	{
-		if (quiet)
-			return;
 		backgroundMusicAudio.clip = Resources.Load<AudioClip>("audio/" + songName);
 		backgroundMusicAudio.Play();
 	}
 
 	public void PlayCoinPickupSound()
 	{
-		if (quiet)
-			return;
 		coinPickupAudio.Play ();
 	}
 
