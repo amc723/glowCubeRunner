@@ -4,6 +4,6 @@ Nothing in this repo really works on its own. If you want to see the full projec
 
 A web build that uses these scripts can be viewed at:
 
-http://web.cs.miami.edu/home/acli329/assignment7/ 
+http://rabbit.eng.miami.edu/students/aclifton/glowCubeRunner.html
 
 Though I can't promise that will be the most up to date version of the game, or if the link will even still be up a year from now...
